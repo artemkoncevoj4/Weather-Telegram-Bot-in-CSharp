@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = TelegramBot
+build_property.ProjectDir = /home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

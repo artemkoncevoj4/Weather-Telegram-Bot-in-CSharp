@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/TelegramBot.csproj": {}
+  },
+  "projects": {
+    "/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/TelegramBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/TelegramBot.csproj",
+        "projectName": "TelegramBot",
+        "projectPath": "/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/TelegramBot.csproj",
+        "packagesPath": "/home/artemkoncevoj4/.nuget/packages/",
+        "outputPath": "/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artemkoncevoj4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[22.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

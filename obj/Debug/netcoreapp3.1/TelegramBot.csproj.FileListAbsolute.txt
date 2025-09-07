@@ -1,0 +1,267 @@
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.exe
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.deps.json
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.json
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.dev.json
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/TelegramBot.pdb
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Azure.Core.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Dapper.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/DotNetEnv.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/IndexRange.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Abstractions.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Sprache.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/de/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/es/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/fr/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/it/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/ja/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/ko/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/ru/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.AssemblyReference.cache
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfoInputs.cache
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfo.cs
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.CoreCompileInputs.cache
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/Telegram.C5E56D06.Up2Date
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.dll
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.pdb
+D:/Visual Studio Проект/TelegramBot/obj/Debug/netcoreapp3.1/TelegramBot.genruntimeconfig.cache
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.SqlServer.Server.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+D:/Visual Studio Проект/TelegramBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Runtime.Caching.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.deps.json
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.json
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.dev.json
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.pdb
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Dapper.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/DotNetEnv.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/IndexRange.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Abstractions.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.SqlServer.Server.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Sprache.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/de/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/es/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/fr/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/it/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/ja/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/ko/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/ru/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Runtime.Caching.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/Документы/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.AssemblyReference.cache
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfoInputs.cache
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfo.cs
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.CoreCompileInputs.cache
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/Telegram.C5E56D06.Up2Date
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.dll
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.pdb
+/home/artemkoncevoj4/Документы/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.genruntimeconfig.cache
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.deps.json
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.json
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.runtimeconfig.dev.json
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/TelegramBot.pdb
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Dapper.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/DotNetEnv.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/IndexRange.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Abstractions.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.SqlServer.Server.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Sprache.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/de/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/es/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/fr/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/it/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/ja/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/ko/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/ru/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.1/Microsoft.Data.SqlClient.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Runtime.Caching.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.AssemblyReference.cache
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfoInputs.cache
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.AssemblyInfo.cs
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.csproj.CoreCompileInputs.cache
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/Telegram.C5E56D06.Up2Date
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.dll
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.pdb
+/home/artemkoncevoj4/VS CODE PROJECT/telegram_bot/obj/Debug/netcoreapp3.1/TelegramBot.genruntimeconfig.cache
